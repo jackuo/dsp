@@ -106,7 +106,10 @@ The probability that elvis was an identcal twin and that he was a twin brother i
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Response:
+Frequentists do not assign probabilities to hypothesis or to any values in general, unless they are repeatable, random events (e.g. flipping a coin). Bayesians describe the probability of an event based on prior knowledge of relevant conditions.
+
+Ex. Bayesians could assign a probability to Hillary Clinton winning the 2016 presidential race, while Freqnetists would say this is unreasonable because the event cannot repeat itself.
 
 ---
 
